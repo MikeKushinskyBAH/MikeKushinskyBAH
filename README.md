@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikeKushinskyBAH
-- 👀 I’m a Digital Transformation Architect at Booz Allen...
+- 👀 I’m a Digital Transformation Architect at Booz Allen Hamilton.
 - 📫 How to reach me: kushinsky_michael@bah.com
 
 <!---
